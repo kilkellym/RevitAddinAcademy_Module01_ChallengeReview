@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>RevitAddinAcademy_Module01_ChallengeReview - Command 1</Text>
+    <Description>Some description for RevitAddinAcademy_Module01_ChallengeReview</Description>
+    <Assembly>RevitAddinAcademy_Module01_ChallengeReview.dll</Assembly>
+    <FullClassName>RevitAddinAcademy_Module01_ChallengeReview.Command1</FullClassName>
+    <ClientId>969cfdf0-012d-4f8f-94ac-2699c7809615</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>RevitAddinAcademy_Module01_ChallengeReview - Command 2</Text>
+    <Description>Some description for RevitAddinAcademy_Module01_ChallengeReview</Description>
+    <Assembly>RevitAddinAcademy_Module01_ChallengeReview.dll</Assembly>
+    <FullClassName>RevitAddinAcademy_Module01_ChallengeReview.Command2</FullClassName>
+    <ClientId>c774a071-0086-4708-a3d4-a17d2bedf45a</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>RevitAddinAcademy_Module01_ChallengeReview</Name>
+    <Assembly>RevitAddinAcademy_Module01_ChallengeReview.dll</Assembly>
+    <FullClassName>RevitAddinAcademy_Module01_ChallengeReview.App</FullClassName>
+    <ClientId>db2c2349-933b-487b-a1d3-ea5b2f47d427</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
